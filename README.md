@@ -26,7 +26,6 @@ Aplikasi desktop untuk mencatat perangkat laboratorium, misalnya PC, switch jari
 11. [Cara Menjalankan Program](#11-cara-menjalankan-program)
 12. [Skenario Pengujian dan Screenshot](#12-skenario-pengujian-dan-screenshot)
 13. [Catatan Perancangan dan Batasan](#13-catatan-perancangan-dan-batasan)
-14. [Penggunaan Alat Bantu AI](#14-penggunaan-alat-bantu-ai)
 
 ---
 
@@ -570,9 +569,3 @@ Isi tab kedua setelah tiga barang disimpan: jumlah unit di setiap kategori, 3 en
 2. Kode barang tidak diperiksa keunikannya, sehingga dua barang dengan kode yang sama tetap dapat disimpan.
 3. Nilai rupiah ditampilkan dengan konversi `(int)`. Untuk total nilai yang melebihi 2.147.483.647 (batas atas `int`), angka yang tampil akan tertahan di batas tersebut. Hal ini dapat diperbaiki dengan memakai `long` atau `String.format("%,.0f", nilai)`.
 4. Barang yang sudah tersimpan belum dapat diubah atau dihapus satu per satu. Penghapusan hanya bisa dilakukan sekaligus lewat **Reset Data**.
-
----
-
-## 14. Penggunaan Alat Bantu AI
-
-Saya menggunakan AI (Claude) sebagai alat bantu belajar, yaitu untuk memeriksa kesesuaian kode dengan syarat tugas dan untuk merapikan serta melengkapi README ini. Seluruh isi README sudah saya cocokkan dengan kode dan dengan hasil menjalankan program, dan saya memahami serta dapat menjelaskan setiap komponen, layout, dan event handler yang digunakan.
