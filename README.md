@@ -35,7 +35,7 @@ Aplikasi desktop untuk mencatat perangkat laboratorium, misalnya PC, switch jari
 |---|---|
 | **Nama** | Jauda Avaro Zufaru |
 | **NIM** | F1D02410059 |
-| **Kelas** | 5C |
+| **Kelas** | C |
 | **Mata kuliah** | Pemrograman Berorientasi Objek (MBS1302137) |
 | **Dosen pengampu** | Royana Afwani, S.T., M.T. |
 | **Program studi** | Teknik Informatika, Fakultas Teknik, Universitas Mataram |
